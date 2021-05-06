@@ -1,0 +1,2 @@
+# Class-28
+This contains the files that were edited and coded in the class 28 in WhitehatJR Pro Course. It is the fourth stage of the angry birds game. It has everything same as the repository 'Class-27' but in this the slingshot has been added a fly method with a mousePressed function and a mouseReleased function. It is coded in javascript using "matter.js". To change the logic, edit the code in the file 'sketch.js' file.
